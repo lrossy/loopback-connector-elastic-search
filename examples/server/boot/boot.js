@@ -4,5 +4,7 @@ module.exports = function(app) {
     //require('./../users/03-create-user.js')(app);
 
     //require('./../roles/01-create-role.js')(app);
-    require('./../roles/02-findOrCreate-role.js')(app);
+
+    //require('./../roles/02-findOrCreate-role.js')(app);
+
 };
